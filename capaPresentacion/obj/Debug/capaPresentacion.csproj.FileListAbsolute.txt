@@ -1,0 +1,17 @@
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaEntidad.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaEntidad.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.P_Productos.resources
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaEntidad\obj\Debug\capaEntidad.pdb

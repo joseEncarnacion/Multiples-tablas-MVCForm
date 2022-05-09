@@ -1,0 +1,9 @@
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Usuario\Pictures\PROYECTOS\BackEnd\Form\multiples-Tablas\capaDatos\obj\Debug\capaDatos.pdb
